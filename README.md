@@ -14,7 +14,7 @@ Luis Mori - Dev back-end
 
 Victor Mori - Dev back-end
 
-Matheus Morais - Dev front-end
+Matheus Morais - Dev mobile
 
 Miguel Duque - Dev front-end
 
